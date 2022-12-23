@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+#logo
+{
+    padding: 9px 9px;
+    background-color: aliceblue;
+}
+.logo{
+    height: 40px;
+    width: 40px;
+    border: 2px solid black;
+    border-radius: 50%;
+}
